@@ -1,0 +1,8 @@
+path: /root/test/a/datasets-400/
+train: /root/test/a/datasets-400/images/train
+val: /root/test/a/datasets-400/images/val
+test: /root/test/a/datasets-400/images/test
+
+nc: 7
+
+names: ['student_id', 'student_idfilling', 'student_name', 'student_idhand', 'objective_question', 'exam_title', 'subjective_question']
